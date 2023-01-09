@@ -8,7 +8,7 @@
   /**************************/
   #header{
     margin:15px 5px;
-    font-family: 'Handlee', cursive;
+    
     display:flex;
     flex-direction:column;
     justify-content:center;
@@ -55,7 +55,7 @@
   }
   /********************************/
   #about-me{
-    font-family: 'Handlee', cursive;
+    
     border-radius:15px;
   }
   #about-me h2, #my-codeing-schedule h2, #skills h2 , #my-media h2, #contact h2, #follow h2{
@@ -75,7 +75,7 @@
   /*********************************/
   #my-codeing-schedule, #skills, #my-media , #contact, #follow{
     margin:15px 5px;
-    font-family: 'Handlee', cursive;
+    
     border-radius:15px;
     
   }
