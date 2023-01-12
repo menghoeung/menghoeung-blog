@@ -92,7 +92,7 @@
     margin-bottom:-4px;
   }
   #skills li{
-    border:1px solid black;
+    border:0px solid black;
     margin:20px 5px 10px 5px ;
   }
   progress {
